@@ -32,7 +32,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 ## Link
 
-[Refferent](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+[reference](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Image
 
